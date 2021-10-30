@@ -1,2 +1,2 @@
 # ML-practise
-Exercise from my learning pathway
+Exercise on my learning pathway
